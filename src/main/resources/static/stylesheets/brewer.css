@@ -1,0 +1,35 @@
+/*
+##########################
+#UTILIDADES
+##########################
+*/
+
+.bw-glyphicon-large {
+	font-size: 18px;
+}
+
+.btn-design {
+	/*background-color: red;*/
+	display: flex;
+	
+}
+
+.btn-style {
+	border-radius: 2px;
+	margin: 2px;
+}
+
+/*
+##########################
+#COMPONENTES
+##########################
+*/
+
+/* Field Action */
+.bw-field-action {
+	display: flex;
+}
+
+.bw-field-action__icon {
+	margin: 6px 0 0 5px;
+}
